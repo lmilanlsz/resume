@@ -3,7 +3,7 @@
 
 title: "简历标题"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
-name: "你的名字"
+name: "励松泽"
 jobtitle: "求职意向" #可空不显示
 photo: "assets/img/photo.jpg" #照片可空，不显示
 
@@ -30,9 +30,9 @@ main: #简历主要内容，
 - type: education #类别为ID
   name: 教育 #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
-  - title: 大学名称
-    duration: "2011年x月 - 2015年"
-    sub: 地点或学历
+  - title: 杭州电子科技大学信息工程学院
+    duration: "2018年9月 - 2022年"
+    sub: 浙江杭州
     detail: 专业或者简短说明
   - title: Your University
     duration: Aug 2007 - Jun 2011
