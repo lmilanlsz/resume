@@ -47,9 +47,8 @@ main: #简历主要内容，
     - C/C++
     - Java
     - Python
-    - Vue
   - title: Skill Group
-    summary: C/C++,Java,Python，Vue
+    summary: C/C++,Java,Python
 
 # - type: experience
 #   name: 经验
