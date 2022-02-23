@@ -79,7 +79,7 @@ main: #简历主要内容，
 #    sub: 维护者
   - title: 购物网站
     duration: 2020年3月 - 2020年6月
-    detail: html作为前端，Springboot后台搭建的购物网站，拥有简单的购物操作逻辑。
+    detail: html/css作为前端，Springboot后台搭建的购物网站，拥有基本的购物操作逻辑。
 #    sub: 维护者
    #可继续添加更多内容
 
