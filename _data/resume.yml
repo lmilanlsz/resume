@@ -34,10 +34,10 @@ main: #简历主要内容，
     duration: "2018年9月 - 2022年7月"
     sub: 浙江杭州
     detail: 软件工程
-  - title: Hangzhou Dianzi University Information Engineering School
-    duration: Sept 2018 - Jun 2022
-    sub: Hangzhou Zhejiang
-    detail: Bachelor of Software Engineering.
+#   - title: Hangzhou Dianzi University Information Engineering School
+#     duration: Sept 2018 - Jun 2022
+#     sub: Hangzhou Zhejiang
+#     detail: Bachelor of Software Engineering.
 
 - type: skills
   name: "技能"
@@ -91,7 +91,7 @@ others: #其他列表显示
 #  - 单行文字
   - title: "技能水平:"
     list: #单行列表
-    - CET-4: 566
+    - GPA排名专业前10%
     - CET-6: 525
   - title: "所获荣誉"
     list:
