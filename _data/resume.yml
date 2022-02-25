@@ -82,7 +82,7 @@ main: #简历主要内容，
     detail: html/css作为前端，Springboot后台搭建的购物网站，拥有基本的购物操作逻辑。
   - title: 超市管理系统
     duration: 2021年3月 - 2021年6月
-    detail: vue作为前端，Springboot后台搭建的超市管理系统，经过junit进行自动化测试，提供基本后台管理业务。
+    detail: vue作为前端，Springboot后台搭建的超市管理系统，提供基本后台管理业务。
 #    sub: 维护者
    #可继续添加更多内容
 
